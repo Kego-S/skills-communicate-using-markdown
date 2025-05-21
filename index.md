@@ -3,3 +3,7 @@
 ### This is an H3 Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+let message = "Hello, world!";
+console.log(message);
+
